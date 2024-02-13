@@ -12,7 +12,7 @@
 },
 4. Uruchomić.
 
-## Dame do logowania user i admin(admin w sumie jest, ale nie ma innych funkcjonalności)
+## Dane do logowania user i admin(admin w sumie jest, ale nie ma innych funkcjonalności)
 
 1. 
    `username: lolek3@gmail.com , password: zaq1@WSX`
